@@ -5,4 +5,4 @@ Some tools for scambaiting and fun
 Some of the scripts will require you to exit from task manager, that can be found under something like wscript.exe
 
 # IMPORTANT!!!
-The password fro system lock is iadmitiamascammer  - Feel free to change by editing the file in any text editor.
+The password for system lock is iadmitiamascammer  - Feel free to change by editing the file in any text editor.
